@@ -311,7 +311,7 @@ ol {
   object-position: 50% 50%;
 }
 
-/* Кастомный скроллбар */
+/* Кастомный скроллбар  */
 .custom-scrollbar::-webkit-scrollbar {
   width: 4px;
 }
