@@ -59,13 +59,13 @@ ol {
 
 .result__video-container {
   position: relative;
-  min-height: 390px;
-  min-width: 711px;
+  height: 390px;
+  width: 711px;
   margin-bottom: 16px;
 }
 
 .result__video {
-  object-fit: contain;
+  object-fit: cover;
   height: 100%;
   width: 100%;
 }
